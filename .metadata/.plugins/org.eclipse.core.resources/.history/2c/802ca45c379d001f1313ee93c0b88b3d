@@ -1,0 +1,9 @@
+package org.india;
+
+public class India {
+
+	private void india() {
+		System.out.println("");
+	}
+	
+}

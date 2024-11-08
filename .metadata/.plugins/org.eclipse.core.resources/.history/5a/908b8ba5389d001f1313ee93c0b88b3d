@@ -1,0 +1,10 @@
+package org.college;
+
+public class Dept {
+	
+	private void deptName() {
+		System.out.println("Maths");
+	}
+	
+
+}

@@ -1,0 +1,9 @@
+package org.tamil;
+
+public class Tamil extends Telgu {
+	
+	public void tamilLanguage() {
+		System.out.println("");
+	}
+	
+}

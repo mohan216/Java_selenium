@@ -1,0 +1,8 @@
+
+public class Desktop {
+	
+	private void desktopSize() {
+		System.out.println("32 inches");
+
+	}
+}

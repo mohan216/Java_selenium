@@ -1,0 +1,19 @@
+package org.edu;
+
+public class Education extends Arts {
+	
+	private void ug() {
+		System.out.println("");
+	}
+	
+	private void pg() {
+		System.out.println("");
+	}
+	
+	public static void main(String[] args) {
+		Education a = new Education();
+		a.ug();
+		a.pg();
+	}
+
+}

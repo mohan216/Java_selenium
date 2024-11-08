@@ -1,0 +1,8 @@
+package org.company;
+
+public class Client {
+	private void clientName() {
+		System.out.println("Apple.");
+	}
+
+}
