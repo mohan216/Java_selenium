@@ -1,9 +1,0 @@
-package org.telgu;
-
-public class Telgu {
-	
-	private void telguLanguage() {
-		System.out.println("");
-	}
-
-}

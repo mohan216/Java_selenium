@@ -1,8 +1,0 @@
-package org.andhrapradesh;
-
-public class AndhraPradesh {
-	
-	private void telgu() {
-		System.out.println("");
-	}
-}

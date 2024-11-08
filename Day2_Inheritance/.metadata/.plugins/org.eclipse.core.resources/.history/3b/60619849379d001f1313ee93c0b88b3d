@@ -1,8 +1,0 @@
-package org.kerala;
-
-public class Kerala extends AndhraPradesh{
-	
-	public void malayalam() {
-		System.out.println("");
-	}
-}

@@ -1,9 +1,0 @@
-package org.english;
-
-public class English {
-	
-	private void englishLanguage() {
-		
-	}
-
-}

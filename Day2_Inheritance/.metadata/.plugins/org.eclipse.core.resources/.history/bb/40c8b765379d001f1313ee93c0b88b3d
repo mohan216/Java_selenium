@@ -1,9 +1,0 @@
-package org.india;
-
-public class India extends TamilNadu{
-
-	private void india() {
-		System.out.println("");
-	}
-	
-}

@@ -1,7 +1,0 @@
-package org.tamil;
-
-public class Tamil {
-	private void tamilLanguage() {
-		System.out.println("");
-	}
-}

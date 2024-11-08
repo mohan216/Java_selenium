@@ -1,8 +1,0 @@
-package org.kerala;
-
-public class Kerala {
-	
-	private void malayalam() {
-		System.out.println("");
-	}
-}
